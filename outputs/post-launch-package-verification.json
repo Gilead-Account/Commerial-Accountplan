@@ -1,0 +1,16 @@
+{
+  "archive": "/Users/am46769/Downloads/Account_plan_SOURCE_Code/dist/kite_myinsights_v2_20261112_200039.zip",
+  "entries": [
+    "index.html"
+  ],
+  "index_matches": true,
+  "runtime_order": [
+    "q.js",
+    "MyInsightsLibrary.js"
+  ],
+  "reference_dashboard_and_resources_present": true,
+  "preview_and_selector_excluded": true,
+  "secret_indicator_scan": "passed",
+  "localhost_url_matches": 0,
+  "sha256": "07e6ea416e8cadee003f4234d921f4d680fd5bd2b77e069a0bde9739645ef951"
+}
